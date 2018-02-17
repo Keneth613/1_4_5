@@ -1,0 +1,48 @@
+# IPython log file
+
+# Fri, 16 Feb 2018 18:47:28
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 18:48:23
+%cd "C:\Users\kenetharias\Desktop\Git\1_4_5\1_4_5_Images\1.4.5 Images"# Fri, 16 Feb 2018 18:48:46
+round_corners_of_all_images()
+# Fri, 16 Feb 2018 20:09:30
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 20:11:56
+frame_all_images((255,0,255,255), 65)
+# Fri, 16 Feb 2018 20:28:07
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 20:28:24
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 20:28:30
+frame_all_images((255,0,255,255), 65)
+# Fri, 16 Feb 2018 20:29:15
+frame_all_images((0,0,255,255), 195)
+# Fri, 16 Feb 2018 20:30:17
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 20:30:21
+frame_all_images((0,0,255,255), 195)
+# Fri, 16 Feb 2018 20:31:09
+frame_all_images((0,255,255,255), 500)
+# Fri, 16 Feb 2018 20:31:43
+frame_all_images((0,255,255,255), 355)
+# Fri, 16 Feb 2018 20:32:28
+frame_all_images((255,255,0,255), 125)
+# Fri, 16 Feb 2018 20:33:54
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 20:34:21
+frame_all_images((255,255,0,255), 125)
+# Fri, 16 Feb 2018 20:34:35
+frame_all_images()
+# Fri, 16 Feb 2018 20:34:55
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 20:34:57
+frame_all_images()
+# Fri, 16 Feb 2018 20:35:16
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 20:35:17
+frame_all_images()
+# Fri, 16 Feb 2018 20:35:24
+frame_all_images()
+# Fri, 16 Feb 2018 20:35:44
+%run "C:/Users/kenetharias/Desktop/Git/1_4_5/KenethArias_1_4_5.py"# Fri, 16 Feb 2018 20:36:00
+frame_all_images((254,0,255,255), 125)
+# Fri, 16 Feb 2018 20:36:42
+frame_all_images((201,0,255,255), 175)
+# Fri, 16 Feb 2018 20:37:14
+frame_all_images((254,0,255,255), 200)
+# Fri, 16 Feb 2018 20:37:40
+frame_all_images((254,0,255,255), 250)
+# Fri, 16 Feb 2018 20:38:28
+%logstop
